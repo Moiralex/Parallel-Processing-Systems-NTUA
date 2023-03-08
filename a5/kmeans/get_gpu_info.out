@@ -1,0 +1,21 @@
+NBody.GPU
+=========
+
+CUDA version:   v11040
+CUDA Devices: 
+
+0: Tesla K40c: 3.5
+  Global memory:   11441mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Max threads per Multiprocessor: 2048
+  Max threads per Block: 1024
+  Number of Multiprocessors: 15
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+

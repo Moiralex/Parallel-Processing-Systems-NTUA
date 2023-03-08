@@ -1,0 +1,2 @@
+# mpicc -O3 -lm -Wall -DPRINT_RESULTS -DTEST_CONV mpi_redBlack.c utils.c -o redBlack
+mpicc -O3 -lm -Wall mpi_redBlack.c utils.c -o redBlack

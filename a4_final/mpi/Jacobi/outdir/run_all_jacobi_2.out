@@ -1,0 +1,42 @@
+size: 2048, threads: 1
+Jacobi X 2048 Y 2048 Px 1 Py 1 Iter 256 ComputationTime 8.419435 TotalTime 8.419748 midpoint 0.000000
+size: 2048, threads: 2
+Jacobi X 2048 Y 2048 Px 1 Py 2 Iter 256 ComputationTime 4.218423 TotalTime 4.350131 midpoint 0.000000
+size: 2048, threads: 4
+Jacobi X 2048 Y 2048 Px 2 Py 2 Iter 256 ComputationTime 2.109829 TotalTime 2.221192 midpoint 0.000000
+size: 2048, threads: 8
+Jacobi X 2048 Y 2048 Px 2 Py 4 Iter 256 ComputationTime 1.061795 TotalTime 1.174232 midpoint 0.000000
+size: 2048, threads: 16
+Jacobi X 2048 Y 2048 Px 4 Py 4 Iter 256 ComputationTime 0.840351 TotalTime 0.895630 midpoint 0.000000
+size: 2048, threads: 32
+Jacobi X 2048 Y 2048 Px 4 Py 8 Iter 256 ComputationTime 0.332480 TotalTime 0.397028 midpoint 0.000000
+size: 2048, threads: 64
+Jacobi X 2048 Y 2048 Px 8 Py 8 Iter 256 ComputationTime 0.056362 TotalTime 0.144201 midpoint 0.000000
+size: 4096, threads: 1
+Jacobi X 4096 Y 4096 Px 1 Py 1 Iter 256 ComputationTime 33.670355 TotalTime 33.670827 midpoint 0.000000
+size: 4096, threads: 2
+Jacobi X 4096 Y 4096 Px 1 Py 2 Iter 256 ComputationTime 16.863460 TotalTime 17.076915 midpoint 0.000000
+size: 4096, threads: 4
+Jacobi X 4096 Y 4096 Px 2 Py 2 Iter 256 ComputationTime 8.433050 TotalTime 8.585128 midpoint 0.000000
+size: 4096, threads: 8
+Jacobi X 4096 Y 4096 Px 2 Py 4 Iter 256 ComputationTime 4.314308 TotalTime 4.433461 midpoint 0.000000
+size: 4096, threads: 16
+Jacobi X 4096 Y 4096 Px 4 Py 4 Iter 256 ComputationTime 3.709707 TotalTime 3.827654 midpoint 0.000000
+size: 4096, threads: 32
+Jacobi X 4096 Y 4096 Px 4 Py 8 Iter 256 ComputationTime 3.655784 TotalTime 3.789980 midpoint 0.000000
+size: 4096, threads: 64
+Jacobi X 4096 Y 4096 Px 8 Py 8 Iter 256 ComputationTime 3.253109 TotalTime 3.483536 midpoint 0.000000
+size: 6144, threads: 1
+Jacobi X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 75.779346 TotalTime 75.779729 midpoint 0.000000
+size: 6144, threads: 2
+Jacobi X 6144 Y 6144 Px 1 Py 2 Iter 256 ComputationTime 37.940898 TotalTime 38.233703 midpoint 0.000000
+size: 6144, threads: 4
+Jacobi X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 18.976217 TotalTime 19.181127 midpoint 0.000000
+size: 6144, threads: 8
+Jacobi X 6144 Y 6144 Px 2 Py 4 Iter 256 ComputationTime 9.727624 TotalTime 9.844412 midpoint 0.000000
+size: 6144, threads: 16
+Jacobi X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 8.363176 TotalTime 8.514713 midpoint 0.000000
+size: 6144, threads: 32
+Jacobi X 6144 Y 6144 Px 4 Py 8 Iter 256 ComputationTime 8.397704 TotalTime 8.561322 midpoint 0.000000
+size: 6144, threads: 64
+Jacobi X 6144 Y 6144 Px 8 Py 8 Iter 256 ComputationTime 8.267713 TotalTime 8.575628 midpoint 0.000000

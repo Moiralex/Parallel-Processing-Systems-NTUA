@@ -1,0 +1,7 @@
+Game_Of_Life.c: In function 'init_random':
+Game_Of_Life.c:117:14: warning: unused variable 'y' [-Wunused-variable]
+  int i,pos,x,y;
+              ^
+Game_Of_Life.c:117:12: warning: unused variable 'x' [-Wunused-variable]
+  int i,pos,x,y;
+            ^

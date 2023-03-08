@@ -1,0 +1,11 @@
+mpi_redBlack.c: In function 'main':
+mpi_redBlack.c:34:28: warning: unused variable 'converged' [-Wunused-variable]
+     int global_converged=0,converged=0; //flags for convergence, global and per process
+                            ^
+mpi_redBlack.c:34:9: warning: unused variable 'global_converged' [-Wunused-variable]
+     int global_converged=0,converged=0; //flags for convergence, global and per process
+         ^
+mpi_redBlack.c:642:5: warning: 'scattercounts' may be used uninitialized in this function [-Wmaybe-uninitialized]
+     MPI_Gatherv(
+     ^
+mpi_redBlack.c:642:5: warning: 'scatteroffset' may be used uninitialized in this function [-Wmaybe-uninitialized]

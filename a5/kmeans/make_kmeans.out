@@ -1,0 +1,1 @@
+/usr/local/cuda-11.4/bin/nvcc -O3 -Ihelper_functions  --ptxas-options=-v -arch=sm_35 -gencode=arch=compute_35,code=sm_35  get_gpu_info.cu -o get_gpu_info

@@ -1,0 +1,3 @@
+Jacobi X 6144 Y 6144 Iter 255 Time 67.103766 Total_Time 67.103863 midpoint 0.000000
+GaussSeidelSOR X 6144 Y 6144 Iter 255 Time 108.579364 midpoint 0.942706
+RedBlackSOR X 6144 Y 6144 Iter 255 Time 120.063650 midpoint 0.000000

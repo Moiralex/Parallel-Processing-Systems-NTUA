@@ -1,0 +1,13 @@
+mpi_jacobi.c: In function 'main':
+mpi_jacobi.c:29:12: warning: variable 'omega' set but not used [-Wunused-but-set-variable]
+     double omega;    //relaxation factor - useless for Jacobi
+            ^
+mpi_jacobi.c:27:28: warning: unused variable 'converged' [-Wunused-variable]
+     int global_converged=0,converged=0; //flags for convergence, global and per process
+                            ^
+mpi_jacobi.c:27:9: warning: unused variable 'global_converged' [-Wunused-variable]
+     int global_converged=0,converged=0; //flags for convergence, global and per process
+         ^
+mpi_jacobi.c:180:9: warning: 'U' may be used uninitialized in this function [-Wmaybe-uninitialized]
+         free2d(U);
+         ^

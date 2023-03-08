@@ -1,0 +1,3 @@
+Jacobi X 4096 Y 4096 Iter 255 Time 30.071753 Total_Time 30.071847 midpoint 0.000000
+GaussSeidelSOR X 4096 Y 4096 Iter 255 Time 48.413505 midpoint 0.900935
+RedBlackSOR X 4096 Y 4096 Iter 255 Time 53.987857 midpoint 0.000000

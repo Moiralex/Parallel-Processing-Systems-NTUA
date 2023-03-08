@@ -1,0 +1,3 @@
+Jacobi X 2048 Y 2048 Iter 255 Time 7.485504 Total_Time 7.485591 midpoint 0.000000
+GaussSeidelSOR X 2048 Y 2048 Iter 255 Time 12.095299 midpoint 0.849018
+RedBlackSOR X 2048 Y 2048 Iter 255 Time 13.389602 midpoint 0.000000

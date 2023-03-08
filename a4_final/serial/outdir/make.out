@@ -1,0 +1,6 @@
+# gcc -O3 -lm -Wall -DPRINT_RESULTS -DTEST_CONV Jacobi_serial.c utils.c -o jacobi
+gcc -O3 -lm -Wall Jacobi_serial.c utils.c -o jacobi
+# gcc -O3 -lm -Wall -DPRINT_RESULTS -DTEST_CONV GaussSeidelSOR_serial.c utils.c -o seidelsor
+gcc -O3 -lm -Wall GaussSeidelSOR_serial.c utils.c -o seidelsor
+# gcc -O3 -lm -Wall -DPRINT_RESULTS -DTEST_CONV RedBlackSOR_serial.c utils.c -o redblacksor
+gcc -O3 -lm -Wall RedBlackSOR_serial.c utils.c -o redblacksor

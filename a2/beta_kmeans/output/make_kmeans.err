@@ -1,0 +1,4 @@
+omp_naive_kmeans.c: In function 'kmeans':
+omp_naive_kmeans.c:51:21: warning: unused parameter 'loop_threshold' [-Wunused-parameter]
+             long    loop_threshold,   /* maximum number of iterations */
+                     ^

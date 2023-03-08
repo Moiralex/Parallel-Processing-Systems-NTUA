@@ -1,0 +1,2 @@
+# mpicc -O3 -lm -Wall -DPRINT_RESULTS -DTEST_CONV mpi_gs.c utils.c -o gs
+mpicc -O3 -lm -Wall mpi_gs.c utils.c -o gs

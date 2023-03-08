@@ -1,0 +1,42 @@
+size: 2048, threads: 1
+RedBlackSOR X 2048 Y 2048 Px 1 Py 1 Iter 256 ComputationTime 18.621266 TotalTime 18.621874 midpoint 0.000000
+size: 2048, threads: 2
+RedBlackSOR X 2048 Y 2048 Px 1 Py 2 Iter 256 ComputationTime 9.318109 TotalTime 9.580730 midpoint 0.000000
+size: 2048, threads: 4
+RedBlackSOR X 2048 Y 2048 Px 2 Py 2 Iter 256 ComputationTime 4.662333 TotalTime 4.885912 midpoint 0.000000
+size: 2048, threads: 8
+RedBlackSOR X 2048 Y 2048 Px 2 Py 4 Iter 256 ComputationTime 2.331729 TotalTime 2.571453 midpoint 0.000000
+size: 2048, threads: 16
+RedBlackSOR X 2048 Y 2048 Px 4 Py 4 Iter 256 ComputationTime 1.634954 TotalTime 1.742136 midpoint 0.000000
+size: 2048, threads: 32
+RedBlackSOR X 2048 Y 2048 Px 4 Py 8 Iter 256 ComputationTime 0.734853 TotalTime 0.829567 midpoint 0.000000
+size: 2048, threads: 64
+RedBlackSOR X 2048 Y 2048 Px 8 Py 8 Iter 256 ComputationTime 0.128817 TotalTime 0.292225 midpoint 0.000000
+size: 4096, threads: 1
+RedBlackSOR X 4096 Y 4096 Px 1 Py 1 Iter 256 ComputationTime 74.458077 TotalTime 74.458822 midpoint 0.000000
+size: 4096, threads: 2
+RedBlackSOR X 4096 Y 4096 Px 1 Py 2 Iter 256 ComputationTime 37.228437 TotalTime 37.654300 midpoint 0.000000
+size: 4096, threads: 4
+RedBlackSOR X 4096 Y 4096 Px 2 Py 2 Iter 256 ComputationTime 18.651677 TotalTime 18.947933 midpoint 0.000000
+size: 4096, threads: 8
+RedBlackSOR X 4096 Y 4096 Px 2 Py 4 Iter 256 ComputationTime 9.385076 TotalTime 9.682063 midpoint 0.000000
+size: 4096, threads: 16
+RedBlackSOR X 4096 Y 4096 Px 4 Py 4 Iter 256 ComputationTime 7.419535 TotalTime 7.646845 midpoint 0.000000
+size: 4096, threads: 32
+RedBlackSOR X 4096 Y 4096 Px 4 Py 8 Iter 256 ComputationTime 7.223000 TotalTime 7.460626 midpoint 0.000000
+size: 4096, threads: 64
+RedBlackSOR X 4096 Y 4096 Px 8 Py 8 Iter 256 ComputationTime 6.348763 TotalTime 6.687063 midpoint 0.000000
+size: 6144, threads: 1
+RedBlackSOR X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 167.418058 TotalTime 167.418838 midpoint 0.000000
+size: 6144, threads: 2
+RedBlackSOR X 6144 Y 6144 Px 1 Py 2 Iter 256 ComputationTime 83.777327 TotalTime 84.367643 midpoint 0.000000
+size: 6144, threads: 4
+RedBlackSOR X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 41.889404 TotalTime 42.298218 midpoint 0.000000
+size: 6144, threads: 8
+RedBlackSOR X 6144 Y 6144 Px 2 Py 4 Iter 256 ComputationTime 21.126160 TotalTime 21.526699 midpoint 0.000000
+size: 6144, threads: 16
+RedBlackSOR X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 16.761056 TotalTime 17.054358 midpoint 0.000000
+size: 6144, threads: 32
+RedBlackSOR X 6144 Y 6144 Px 4 Py 8 Iter 256 ComputationTime 16.784946 TotalTime 17.083628 midpoint 0.000000
+size: 6144, threads: 64
+RedBlackSOR X 6144 Y 6144 Px 8 Py 8 Iter 256 ComputationTime 16.553579 TotalTime 16.966158 midpoint 0.000000
